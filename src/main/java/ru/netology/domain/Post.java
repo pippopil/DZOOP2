@@ -11,4 +11,3 @@ public class Post {
     private RepostsInfo repostInfo;
     private ViewsInfo viewsInfo;
 }
-//getter+setter;
