@@ -22,7 +22,7 @@ public class Post {
     private CommentsInfo commentsInfo;
     private RepostsInfo repostInfo;
     private ViewsInfo viewsInfo;
-    private GeoInfo geosInfo;
+    private GeoInfo geoInfo;
 
 }
 //getter+setter;
